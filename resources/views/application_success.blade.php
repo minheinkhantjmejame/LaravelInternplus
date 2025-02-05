@@ -18,7 +18,7 @@
 
 </head>
 <body>
-    <!-- Navigation Bar -->
+     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
         <div class="container d-flex justify-content-start align-items-center">
             <!-- INTERNPLUS -->
